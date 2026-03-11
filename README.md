@@ -1,7 +1,8 @@
 
 # Dağıtık ML Model Yöneticisi (Distributed ML Manager)
 
-[cite_start]Tamamen Java ile geliştirilmiş dağıtık bir makine öğrenmesi tahmin ve model yönetim sistemidir[cite: 8, 15]. [cite_start]Bu proje, TBL324 İleri Java Uygulamaları dersi için kapsamlı bir final mimarisi olarak kurgulanmıştır[cite: 7].
+- Tamamen Java ile geliştirilmiş dağıtık bir makine öğrenmesi tahmin ve model yönetim sistemidir.
+- Bu proje, İleri Java Uygulamaları dersi için proje mimarisi olarak kurgulanmıştır.
 
 ## 🏗️ Mimari Genel Bakış
 
