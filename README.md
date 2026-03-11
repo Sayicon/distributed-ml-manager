@@ -1,4 +1,4 @@
-```markdown
+
 # Dağıtık ML Model Yöneticisi (Distributed ML Manager)
 
 [cite_start]Tamamen Java ile geliştirilmiş dağıtık bir makine öğrenmesi tahmin ve model yönetim sistemidir[cite: 8, 15]. [cite_start]Bu proje, TBL324 İleri Java Uygulamaları dersi için kapsamlı bir final mimarisi olarak kurgulanmıştır[cite: 7].
@@ -65,11 +65,3 @@ Bu proje, dersin hem zorunlu temel gereksinimlerini (65 Puan) hem de ileri seviy
 
 * [ ] **Dockerize Sistem (+5 Puan):** Tüm mimarinin (Veritabanı, Servisler vb.) `docker-compose up` komutuyla çalıştırılabilir olması.
 
-
-```
-
-***
-
-Bu dosyayı repoya ekledikten sonra projenin iskeletini oluşturmaya geçebiliriz. Veritabanı (MySQL ve Redis) yapılandırmalarını barındıracak ilk `docker-compose.yml` dosyasını hazırlamamı ister misin?
-
-```
