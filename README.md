@@ -1,1 +1,1 @@
-# distributed-commerce-api
+# distributed-ml-manager
